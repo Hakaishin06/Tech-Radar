@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Chatbot",
+    "quadrant": "Emerging",
+    "ring": "Adopt",
+    "info": "A conversational AI tool for customer support."
+  },
+  {
+    "name": "AI Assistant",
+    "quadrant": "New",
+    "ring": "Trial",
+    "info": "An AI-powered personal assistant."
+  },
+  {
+    "name": "Legacy System Upgrade",
+    "quadrant": "Established",
+    "ring": "Assess",
+    "info": "Upgrading legacy systems to modern architectures."
+  },
+  {
+    "name": "Cloud Migration",
+    "quadrant": "Mature",
+    "ring": "Adopt",
+    "info": "Migrating applications and data to the cloud."
+  },
+  {
+    "name": "Blockchain Integration",
+    "quadrant": "Emerging",
+    "ring": "Hold",
+    "info": "Integrating blockchain technology into existing systems."
+  },
+  {
+    "name": "Data Lake Implementation",
+    "quadrant": "New",
+    "ring": "Assess",
+    "info": "Implementing a data lake for centralized data storage."
+  },
+  {
+    "name": "DevOps Automation",
+    "quadrant": "Mature",
+    "ring": "Trial",
+    "info": "Automating DevOps processes for faster delivery."
+  },
+  {
+    "name": "Cybersecurity Enhancement",
+    "quadrant": "Established",
+    "ring": "Adopt",
+    "info": "Enhancing cybersecurity measures across the organization."
+  },
+  {
+    "name": "Augmented Reality",
+    "quadrant": "New",
+    "ring": "Hold",
+    "info": "AR applications for training and visualization."
+  }
+]
